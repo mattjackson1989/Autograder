@@ -1,0 +1,165 @@
+Irving J. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet
+Irving J. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet
+Irving J. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+/home/mcj16/midterm/idoe/house.c: In function ‘main’:
+/home/mcj16/midterm/idoe/house.c:13:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Enter the width of the house (in feet):  ");
+   ^
+/home/mcj16/midterm/idoe/house.c:13:3: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/mcj16/midterm/idoe/house.c:13:3: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/mcj16/midterm/idoe/house.c:15:3: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   scanf("%lf", &width);
+   ^
+/home/mcj16/midterm/idoe/house.c:15:3: warning: incompatible implicit declaration of built-in function ‘scanf’
+/home/mcj16/midterm/idoe/house.c:15:3: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet

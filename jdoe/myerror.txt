@@ -1,0 +1,105 @@
+John I. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+#include <stdio.h>
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet
+John I. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+#include <stdio.h>
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet
+John I. Doe
+/*
+  house.c
+
+  Square footage of a house
+
+  John Doe
+  jdoe@uakron.edu
+*/
+
+#include <stdio.h>
+
+int main() {
+
+  // input the house width
+  printf("Enter the width of the house (in feet):  ");
+  double width;
+  scanf("%lf", &width);
+  
+  // input the house depth
+  printf("Enter the depth of the house (in feet):  ");
+  double height;
+  scanf("%lf", &height);
+
+  // compute the area of the house
+  double area = width * height;
+
+  // output the area of the house
+  printf("The house is %.0f square feet\n", area);
+
+  return 0;
+}
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 400 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 1200 square feet
+Enter the width of the house (in feet):  Enter the depth of the house (in feet):  The house is 408 square feet
